@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "ankith",
+            "age": 16,
+            "gen": "male"
+        },
+        {
+            "id": "2",
+            "name": "chitauri",
+            "age": null,
+            "gen": "unknown"
+        },
+        {
+            "id": 3,
+            "name": "greta",
+            "age": 22,
+            "gen": "female"
+        },
+        {
+            "id": 4,
+            "name": "ortiga",
+            "age": 200,
+            "gen": "male"
+        },
+        {
+            "id": 5,
+            "name": "drac",
+            "age": 20,
+            "gen": "male"
+        },
+        {
+            "id": 6,
+            "name": "baby"
+        },
+        {
+            "id": 7,
+            "name": "omega",
+            "age": 16,
+            "gen": "male"
+        },
+        {
+            "id": "8",
+            "name": "chiwawa",
+            "age": 4,
+            "gen": "male"
+        }
+    ]
+}
